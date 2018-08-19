@@ -1,1 +1,1 @@
-worker: node <text>.js
+worker: node text.js
